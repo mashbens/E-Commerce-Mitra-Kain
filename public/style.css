@@ -1,0 +1,28 @@
+/* body {
+  padding-top: 5rem;
+} */
+
+/* .starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+} */
+
+#navbar {
+  padding: 2px;
+}
+
+/* .content {
+  padding: 16px;
+} */
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+/* asdasdasd */
